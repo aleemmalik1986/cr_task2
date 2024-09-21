@@ -29,10 +29,11 @@ This package contains teraform module to create secrets on smaas
      `./create-secrets.sh apply`
   2. To run interactively
      `./secret-manager.sh`
-
+   ```
      Choose the task: 
       1. List all secrets 
       2. Enter secret to view 
       3. Create a secret 
       4. Quit
      Choose an option [1-4]:
+   ```
