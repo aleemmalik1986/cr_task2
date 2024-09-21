@@ -1,0 +1,2 @@
+./deploy/secrets/.terragrunt-cache
+./deploy/secrets/.terraform.lock.hcl
