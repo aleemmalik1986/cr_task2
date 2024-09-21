@@ -3,8 +3,8 @@
 This package contains teraform module to create secrets on smaas
 
 ## Directory Structure
-
-`├── README.md
+```
+├── README.md
 ├── deploy
 │   └── secrets
 │       └── terragrunt.hcl
@@ -14,7 +14,8 @@ This package contains teraform module to create secrets on smaas
 │       └── variables.tf
 └── scripts
     ├── create-secrets.sh
-    └── secret-manager.sh`
+    └── secret-manager.sh
+```
 
 ## Prerequisites
 
