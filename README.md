@@ -19,11 +19,11 @@ This package contains teraform module to create secrets on smaas
 
 ## Prerequisites
 
-- make sure tofu and terragrunt is installed
+- Make sure tofu and terragrunt is installed
 
 ## How to Run
 
-- there are two ways to create the secret
+- There are two ways to create the secret
 
   1. change dir to scripts dir and run
      `./create-secrets.sh apply`
